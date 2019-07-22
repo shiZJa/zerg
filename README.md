@@ -4,6 +4,7 @@
 使用thinkphp5框架
 
 --------------------------------------------
+此课程编程思想精华部分：
 
 全局异常处理层目录：zerg/application/lib/exception
-参数校验层目录
+参数校验层目录：zerg/application/api/validate/
